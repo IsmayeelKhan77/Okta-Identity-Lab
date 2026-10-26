@@ -96,4 +96,11 @@ I want this project to be clear about what it does and doesn't show:
 
 ---
 
-## Repository Structure
+## About Me
+
+I'm Ismayeel, building toward entry-level roles in IAM, IT Helpdesk, and system administration. This is part of my portfolio alongside my Active Directory, helpdesk, and PowerShell labs.
+
+- GitHub: [IsmayeelKhan77](https://github.com/IsmayeelKhan77)
+- LinkedIn: [add your profile link here]
+
+
