@@ -1,6 +1,6 @@
 # Okta Identity Lab
 
-A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering the full path from setting up an organization to handling real helpdesk-style support tickets. Everything was built and tested by me from scratch on the **Okta Integrator Free Plan**, and every step is documented with screenshots.
+A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering the full path from setting up an organization to handling real helpdesk-style support tickets. Everything was built and tested from scratch on the **Okta Integrator Free Plan**, and every step is documented with screenshots.
 
 > **Goal:** learn how a company controls who can sign in, what they can access, and how to fix problems when access breaks.
 
