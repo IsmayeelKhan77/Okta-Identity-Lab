@@ -4,7 +4,7 @@ A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering 
 
 > **Goal:** learn how a company controls who can sign in, what they can access, and how to fix problems when access breaks.
 
-![Okta Admin Console](Screenshots/cp1-dashboard.png)
+![Okta Admin Console](Screenshots/cp1ss1.png)
 
 ---
 
@@ -56,7 +56,7 @@ A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering 
 - **Life cycle works:** after moving a user from IT to Sales, his dashboard changed to show only his new group's apps. A deactivated user lost access immediately, and deactivating freed a slot under the free plan's user limit.
 - **Support method works:** all 5 tickets were solved using the same five steps and verified afterward.
 
-![Sign-in sequence in the System Log](Screenshots/cp6-system-log.png)
+![Sign-in sequence in the System Log](Screenshots/cp4ss7.png)
 
 ---
 
