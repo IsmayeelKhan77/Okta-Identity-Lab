@@ -9,7 +9,7 @@ A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering 
 ---
 
 ## What I Built
-
+ 
 - A small "company" inside Okta: **10 users** across **IT, HR, and Sales**, organized with groups
 - A least-privilege admin setup: one Super Admin and one **Help Desk Administrator** role
 - **Single Sign-On (SSO)** with three apps assigned by group (a bookmark app, a SAML app, and an OIDC app)
