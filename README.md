@@ -15,7 +15,7 @@ A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering 
 - **Single Sign-On (SSO)** with three apps assigned by group (a bookmark app, a SAML app, and an OIDC app)  
 - **Multi-factor authentication (MFA)**: an enrollment policy and a sign-in rule that asks for a second factor  
 - The full employee life cycle: **joiner, mover, and leaver**
-- **5 support ticket simulations**, solved with log analysis in the Okta System Log
+- **5 support ticket simulations**, solved with log analysis in the Okta System Log  
 
 ---
 
