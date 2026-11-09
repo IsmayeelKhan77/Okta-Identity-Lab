@@ -7,7 +7,7 @@ A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering 
 ![Okta Admin Console](Screenshots/cp1ss1.png)
 
 ---
-
+               
 ## What I Built
  
 - A small "company" inside Okta: **10 users** across **IT, HR, and Sales**, organized with groups
