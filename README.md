@@ -16,7 +16,7 @@ A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering 
 - **Multi-factor authentication (MFA)**: an enrollment policy and a sign-in rule that asks for a second factor  
 - The full employee life cycle: **joiner, mover, and leaver**
 - **5 support ticket simulations**, solved with log analysis in the Okta System Log      
-
+                          
 ---
 
 ## Skills Demonstrated
