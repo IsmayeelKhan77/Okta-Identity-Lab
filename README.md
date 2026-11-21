@@ -5,7 +5,7 @@ A hands-on Identity and Access Management (IAM) lab built on **Okta**, covering 
 > **Goal:** learn how a company controls who can sign in, what they can access, and how to fix problems when access breaks.               
 
 ![Okta Admin Console](Screenshots/cp1ss1.png)
-
+  
 ---
                
 ## What I Built
